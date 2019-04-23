@@ -67,6 +67,7 @@
 - [Veronica Lusby](https://github.com/veronicamengyan)
 - [Ramkrishna Pednekar](https://github.com/sidd82)
 - [Eli Alvarado](https://github.com/elialvaradoo)
+- [Vishal Jaiswal](https://github.com/v604jais)
 - [Sourav]
 - [Sukhesh Samant](https://github.com/sukhsama)
 - [Bipul Kumar](https://github.com/imbipulkumar)
